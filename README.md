@@ -4,7 +4,7 @@ Despliegue contenedorizado de una API REST en Python (Flask) conectada a una bas
 
 - **Estudiante:** Juan Pablo Correa Gutiérrez (`estudiante35`)
 - **Servidor:** `178.128.14.98`
-- **Endpoint público:** `http://178.128.14`
+- **Endpoint público:** `http://178.128.14.98:8035/health`
 
 ## Comandos ejecutados en orden
 
