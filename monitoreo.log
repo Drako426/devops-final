@@ -1,0 +1,38 @@
+==========================================
+Fecha de verificacion: 2026-11-17 15:59:40
+Estado API (http://localhost:8035/health): OK (HTTP 200)
+--- Estado de contenedores ---
+NAMES       STATUS                   PORTS
+est35_api   Up 5 minutes (healthy)   0.0.0.0:8035->5000/tcp, [::]:8035->5000/tcp
+est35_db    Up 5 minutes (healthy)   5432/tcp
+--- Ultimos 10 logs de est35_api ---
+{"fecha": "2026-11-17T15:56:03+00:00", "nivel": "INFO", "mensaje": "peticion", "metodo": "GET", "ruta": "/health", "estado": 200, "duracion_ms": 12.24, "ip": "127.0.0.1"}
+{"fecha": "2026-11-17T15:56:33+00:00", "nivel": "INFO", "mensaje": "peticion", "metodo": "GET", "ruta": "/health", "estado": 200, "duracion_ms": 13.96, "ip": "127.0.0.1"}
+{"fecha": "2026-11-17T15:56:47+00:00", "nivel": "INFO", "mensaje": "peticion", "metodo": "POST", "ruta": "/tareas", "estado": 201, "duracion_ms": 17.21, "ip": "192.168.0.1"}
+{"fecha": "2026-11-17T15:57:04+00:00", "nivel": "INFO", "mensaje": "peticion", "metodo": "GET", "ruta": "/health", "estado": 200, "duracion_ms": 13.09, "ip": "127.0.0.1"}
+{"fecha": "2026-11-17T15:57:34+00:00", "nivel": "INFO", "mensaje": "peticion", "metodo": "GET", "ruta": "/health", "estado": 200, "duracion_ms": 12.44, "ip": "127.0.0.1"}
+{"fecha": "2026-11-17T15:58:05+00:00", "nivel": "INFO", "mensaje": "peticion", "metodo": "GET", "ruta": "/health", "estado": 200, "duracion_ms": 11.19, "ip": "127.0.0.1"}
+{"fecha": "2026-11-17T15:58:35+00:00", "nivel": "INFO", "mensaje": "peticion", "metodo": "GET", "ruta": "/health", "estado": 200, "duracion_ms": 11.37, "ip": "127.0.0.1"}
+{"fecha": "2026-11-17T15:59:06+00:00", "nivel": "INFO", "mensaje": "peticion", "metodo": "GET", "ruta": "/health", "estado": 200, "duracion_ms": 22.72, "ip": "127.0.0.1"}
+{"fecha": "2026-11-17T15:59:38+00:00", "nivel": "INFO", "mensaje": "peticion", "metodo": "GET", "ruta": "/health", "estado": 200, "duracion_ms": 33.64, "ip": "127.0.0.1"}
+{"fecha": "2026-11-17T15:59:40+00:00", "nivel": "INFO", "mensaje": "peticion", "metodo": "GET", "ruta": "/health", "estado": 200, "duracion_ms": 12.59, "ip": "192.168.0.1"}
+
+==========================================
+Fecha de verificacion: 2026-11-17 16:04:25
+Estado API (http://localhost:8035/health): OK (HTTP 200)
+--- Estado de contenedores ---
+NAMES       STATUS                    PORTS
+est35_api   Up 10 minutes (healthy)   0.0.0.0:8035->5000/tcp, [::]:8035->5000/tcp
+est35_db    Up 10 minutes (healthy)   5432/tcp
+--- Ultimos 10 logs de est35_api ---
+{"fecha": "2026-11-17T16:00:08+00:00", "nivel": "INFO", "mensaje": "peticion", "metodo": "GET", "ruta": "/health", "estado": 200, "duracion_ms": 23.37, "ip": "127.0.0.1"}
+{"fecha": "2026-11-17T16:00:39+00:00", "nivel": "INFO", "mensaje": "peticion", "metodo": "GET", "ruta": "/health", "estado": 200, "duracion_ms": 11.11, "ip": "127.0.0.1"}
+{"fecha": "2026-11-17T16:01:09+00:00", "nivel": "INFO", "mensaje": "peticion", "metodo": "GET", "ruta": "/health", "estado": 200, "duracion_ms": 13.23, "ip": "127.0.0.1"}
+{"fecha": "2026-11-17T16:01:40+00:00", "nivel": "INFO", "mensaje": "peticion", "metodo": "GET", "ruta": "/health", "estado": 200, "duracion_ms": 11.23, "ip": "127.0.0.1"}
+{"fecha": "2026-11-17T16:02:10+00:00", "nivel": "INFO", "mensaje": "peticion", "metodo": "GET", "ruta": "/health", "estado": 200, "duracion_ms": 15.81, "ip": "127.0.0.1"}
+{"fecha": "2026-11-17T16:02:41+00:00", "nivel": "INFO", "mensaje": "peticion", "metodo": "GET", "ruta": "/health", "estado": 200, "duracion_ms": 11.1, "ip": "127.0.0.1"}
+{"fecha": "2026-11-17T16:03:11+00:00", "nivel": "INFO", "mensaje": "peticion", "metodo": "GET", "ruta": "/health", "estado": 200, "duracion_ms": 13.4, "ip": "127.0.0.1"}
+{"fecha": "2026-11-17T16:03:42+00:00", "nivel": "INFO", "mensaje": "peticion", "metodo": "GET", "ruta": "/health", "estado": 200, "duracion_ms": 16.85, "ip": "127.0.0.1"}
+{"fecha": "2026-11-17T16:04:13+00:00", "nivel": "INFO", "mensaje": "peticion", "metodo": "GET", "ruta": "/health", "estado": 200, "duracion_ms": 20.56, "ip": "127.0.0.1"}
+{"fecha": "2026-11-17T16:04:26+00:00", "nivel": "INFO", "mensaje": "peticion", "metodo": "GET", "ruta": "/health", "estado": 200, "duracion_ms": 18.1, "ip": "192.168.0.1"}
+
