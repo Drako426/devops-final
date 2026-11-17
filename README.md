@@ -11,9 +11,9 @@ Despliegue contenedorizado de una API REST en Python (Flask) conectada a una bas
 ### 1. Conexión SSH y preparación del repositorio
 ```bash
 ssh estudiante35@178.128.14.98
-git clone https://github.com
+git clone https://github.com/Drako426/devops-final
 cd devops-final
-git remote set-url origin https://github.com
+git remote set-url origin  https://github.com/Drako426/devops-final
 git config user.name "Juan Pablo Correa"
 git config user.email "pablo.correa@utp.edu.co"
 ```
